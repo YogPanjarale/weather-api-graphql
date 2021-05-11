@@ -1,4 +1,4 @@
-const ACCESS_KEY = '114990aac12f5be51ea84639eb483653'
+const ACCESS_KEY =process.env.ACCESS_KEY||""
 import { RequestOptions, RESTDataSource } from 'apollo-datasource-rest'
 import camelCaseKeys from 'camelcase-keys'
 

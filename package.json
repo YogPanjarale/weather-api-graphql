@@ -23,6 +23,7 @@
     "apollo-datasource-rest": "^0.13.0",
     "apollo-server": "^2.24.0",
     "camelcase-keys": "^6.2.2",
+    "dotenv": "^9.0.2",
     "graphql": "^15.5.0"
   }
 }
